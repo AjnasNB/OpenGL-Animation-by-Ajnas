@@ -1,4 +1,4 @@
-# computer-graphics
+# OpenGL program by Ajnas N B
 ## Basic computer graphics program to understnd Open graphics Library using GLUT kit
 
 # What is OpenGL?
