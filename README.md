@@ -55,7 +55,7 @@ print("Imports successful!")
 
 ## Output of star scaling.py :
 
-<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/star%20scaling.gif"
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/star%20scaling.gif">
 
 ## Output of solar system.py :
 
