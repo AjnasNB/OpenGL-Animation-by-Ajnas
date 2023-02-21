@@ -23,9 +23,11 @@ import OpenGL.GLUT
 import OpenGL.GLU
 print("Imports successful!")
 ```
-## Then go through the uploaded programs
+## Then go through the uploaded programs [here. ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/tree/main/assets)
 
 # Following is the output of the programs I uploaded
+
+# If you can't see any of the output below then go 
 
 ## Output of rotate squares.py :
 
