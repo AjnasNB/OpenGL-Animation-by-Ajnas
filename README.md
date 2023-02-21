@@ -27,7 +27,7 @@ print("Imports successful!")
 
 # Following is the output of the programs I uploaded
 
-## Output of rotate.py :
+## Output of rotate squares.py :
 
 ![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/rotate%20square.gif)
 
