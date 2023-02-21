@@ -31,41 +31,41 @@ print("Imports successful!")
 
 ## Output of rotate squares.py :
 
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/rotate%20square.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/rotate%20square.gif">
 
 ## Output of rotate and translate.py :
 
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/rotate%20and%20translate.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/rotate%20and%20translate.gif">
 
 ## Output of ball bounce.py :
 
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/ball%20bounce.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/ball%20bounce.gif">
 
 ## Output of rotate needle.py :
 
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/rotate%20needle.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/rotate%20needle.gif">
 
 ## Output of car.py :
 
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/car.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/car.gif">
 
 ## Output of ball on ground.py :
 
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/ball%20on%20ground.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/ball%20on%20ground.gif">
 
 ## Output of star scaling.py :
 
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/star%20scaling.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/star%20scaling.gif)
 
 ## Output of solar system.py :
 
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/solar%20system.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/solar%20system.gif">
 
 ## Output of full transformation.py :
 
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/full%20transformations.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/full%20transformations.gif">
 
 ## Output of ball jumbing and translating.py :
-![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/ball%20transform.gif)
+<img src="https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/ball%20transform.gif">
 
 # These programs will help you understand the basic concepts of animation using OpenGL
