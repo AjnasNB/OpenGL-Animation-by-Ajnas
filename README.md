@@ -65,5 +65,7 @@ print("Imports successful!")
 
 ![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/full%20transformations.gif)
 
+## Output of ball jumbing and translating.py :
+![ ](https://github.com/AjnasNB/OpenGL-Animation-by-Ajnas/blob/main/assets/ball%20transform.gif)
 
 # These programs will help you understand the basic concepts of animation using OpenGL
